@@ -1,0 +1,1668 @@
+﻿
+**************************************************************************************************
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552925062592&category_code=001&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552925062592&category_code=001&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552925066933&category_code=001&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552925066933&category_code=001&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552925066933&category_code=001&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552925076969&city_code=01  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552925078996&category_code=001&city_code=01&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552925078996&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552925078996&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestward?cacheBuster=1552925437748&city_code=01&district_code=005  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552925438644&category_code=001&city_code=01&district_code=005&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552925438644&category_code=001&city_code=01&district_code=005&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552925438644&category_code=001&city_code=01&district_code=005&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/account?cacheBuster=1552926038341  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestcity?cacheBuster=1552926038829  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552926075309&city_code=46  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestward?cacheBuster=1552926105621&city_code=46&district_code=474  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/account?cacheBuster=1552926251533  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestcity?cacheBuster=1552926252002  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/account?cacheBuster=1552926272878  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestcity?cacheBuster=1552926273320  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552926275788&city_code=01  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/account?cacheBuster=1552926335634  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestcity?cacheBuster=1552926336099  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552926337738&city_code=22  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestward?cacheBuster=1552926339229&city_code=22&district_code=194  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestward?cacheBuster=1552926341487&city_code=22&district_code=198  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestward?cacheBuster=1552926350221&city_code=22&district_code=203  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/account?cacheBuster=1552926389923  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestcity?cacheBuster=1552926390321  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552926391689&city_code=22  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestward?cacheBuster=1552926392605&city_code=22&district_code=193  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552926395648&city_code=06  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552926396993&city_code=00  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926402115&category_code=001&city_code=00&district_code=000&size=12&ward_code=00000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552926402115&category_code=001&city_code=00&district_code=000&size=1000000&ward_code=00000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926402115&category_code=001&city_code=00&district_code=000&size=1000000&ward_code=00000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/account?cacheBuster=1552926461900  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestcity?cacheBuster=1552926462432  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926466481&category_code=001&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926466481&category_code=001&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552926466481&category_code=001&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552926475147&city_code=01  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926475803&category_code=001&city_code=01&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552926475803&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926475803&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552926482548&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926482548&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926482548&category_code=001&city_code=01&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552926486151&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926486151&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926486151&category_code=001&city_code=01&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552926492681&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926492681&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926492681&category_code=001&city_code=01&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552926500526&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926500526&category_code=001&city_code=01&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926500526&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/account?cacheBuster=1552926506939  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestcity?cacheBuster=1552926507375  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552926512716&city_code=01  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926513457&category_code=001&city_code=01&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552926513457&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552926513457&category_code=001&city_code=01&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552927439223  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552927441528&category_code=001&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927441528&category_code=001&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927441528&category_code=001&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552927729475&city_code=01  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestward?cacheBuster=1552927732072&city_code=01&district_code=005  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927735548&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552927735548&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927735548&category_code=001&city_code=01&district_code=005&size=12&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552927744543&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927744543&category_code=001&city_code=01&district_code=005&size=12&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927744543&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927752516&category_code=001&city_code=01&district_code=005&size=12&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552927752516&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927752516&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927755681&category_code=001&city_code=01&district_code=005&size=12&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552927755681&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927755681&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/account?cacheBuster=1552927759635  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5MjI4NzMsImV4cCI6MTU1MjkyNjQ3MywiaWF0IjoxNTUyOTIyODczfQ.oAPaUQyw8IDq4_j1obb-Bd7F4P55n8zBHhK89MlZ9rk
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestcity?cacheBuster=1552927759901  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552927763213&city_code=86  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552927764766&city_code=01  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestward?cacheBuster=1552927769208&city_code=01&district_code=005  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/login?cacheBuster=1552927774266  ||  Method: POST
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+{"id":null,"username":"luuthin","password":"234234","email":null,"first_name":null,"last_name":null,"role":null,"page":"front"}
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/account?cacheBuster=1552927774366  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestcity?cacheBuster=1552927774482  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927776201&category_code=001&size=12  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927776201&category_code=001&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552927776201&category_code=001&size=1000000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552927782408&city_code=01  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestward?cacheBuster=1552927785478&city_code=01&district_code=005  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552927787031&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927787031&category_code=001&city_code=01&district_code=005&size=12&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927787031&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/account?cacheBuster=1552927792401  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestcity?cacheBuster=1552927792619  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestdistrict?cacheBuster=1552927795434&city_code=01  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/ward/suggestward?cacheBuster=1552927797724&city_code=01&district_code=005  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store/count?cacheBuster=1552927799813&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927799813&category_code=001&city_code=01&district_code=005&size=12&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/18/2019 10:26:07 PM***************************************
+INFORMATION
+http://localhost:59346/api/store?cacheBuster=1552927799813&category_code=001&city_code=01&district_code=005&size=1000000&ward_code=00157  ||  Method: GET
+Connection: keep-alive
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE1NTI5Mjc3NzQsImV4cCI6MTU1MjkzMTM3NCwiaWF0IjoxNTUyOTI3Nzc0fQ.cqybRAV5p_tMKY_7L-bBi7vtnF56__TANePiQxumxN4
+Host: localhost:59346
+Referer: http://localhost:9090/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+Origin: http://localhost:9090
+
+
+**************************************************************************************************
+***************************************3/19/2019 12:16:48 AM***************************************
+INFORMATION
+http://localhost:59346/api/store/front?category_code=001&page=1&size=10000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Cookie: NG_TRANSLATE_LANG_KEY=%22en%22
+Host: localhost:59346
+Referer: http://localhost:59346/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+
+
+**************************************************************************************************
+***************************************3/19/2019 12:18:39 AM***************************************
+INFORMATION
+http://localhost:59346/api/store/front?category_code=001&page=1&size=10000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Cookie: NG_TRANSLATE_LANG_KEY=%22en%22
+Host: localhost:59346
+Referer: http://localhost:59346/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+
+
+**************************************************************************************************
+***************************************3/19/2019 12:18:39 AM***************************************
+INFORMATION
+http://localhost:59346/api/store/front?category_code=001&page=1&size=10000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Cookie: NG_TRANSLATE_LANG_KEY=%22en%22
+Host: localhost:59346
+Referer: http://localhost:59346/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+
+
+**************************************************************************************************
+***************************************3/19/2019 12:18:39 AM***************************************
+INFORMATION
+http://localhost:59346/api/store/front?category_code=001&page=1&size=10000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Cookie: NG_TRANSLATE_LANG_KEY=%22en%22
+Host: localhost:59346
+Referer: http://localhost:59346/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+
+
+**************************************************************************************************
+***************************************3/19/2019 12:18:39 AM***************************************
+INFORMATION
+http://localhost:59346/api/store/front?category_code=001&city_code=01&page=1&size=10000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Cookie: NG_TRANSLATE_LANG_KEY=%22en%22
+Host: localhost:59346
+Referer: http://localhost:59346/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+
+
+**************************************************************************************************
+***************************************3/19/2019 12:18:39 AM***************************************
+INFORMATION
+http://localhost:59346/api/store/front?category_code=001&city_code=01&district_code=005&page=1&size=10000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Cookie: NG_TRANSLATE_LANG_KEY=%22en%22
+Host: localhost:59346
+Referer: http://localhost:59346/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+
+
+**************************************************************************************************
+***************************************3/19/2019 12:18:39 AM***************************************
+INFORMATION
+http://localhost:59346/api/store/front?category_code=001&city_code=01&district_code=005&ward_code=00157&page=1&size=10000  ||  Method: GET
+Connection: keep-alive
+Accept: application/json
+Accept-Encoding: gzip, deflate, br
+Accept-Language: vi-VN, vi; q=0.9, fr-FR; q=0.8, fr; q=0.7, en-US; q=0.6, en; q=0.5
+Cookie: NG_TRANSLATE_LANG_KEY=%22en%22
+Host: localhost:59346
+Referer: http://localhost:59346/swagger/ui/index
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+
