@@ -4,11 +4,8 @@ using SAMPLE_API.Common;
 using SAMPLE_API.Models.General;
 using SAMPLE_API.Models.RequestDTO;
 using SAMPLE_API.Utils;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 using System.Xml.Linq;
 using static SAMPLE_API.Utils.Logger;
@@ -22,7 +19,6 @@ namespace SAMPLE_API.Controllers
         [Route("api/store")]
         public object Get(string name = "", string category_code = "", string address = "", string ward_code = "", int page = 1, int size = 12)
         {
-            string token = Request.Headers.Authorization == null ? "" : Request.Headers.Authorization.ToString();
             Logger.Info(Request.RequestUri + "  ||  Method: " + Request.Method, Request.Headers.ToString(), null, Level.INFO);
 
             ResponseDTO Response = new ResponseDTO();
@@ -36,7 +32,6 @@ namespace SAMPLE_API.Controllers
         [Route("api/store/front")]
         public object GetFront(string category_code = "", string city_code = "", string district_code = "", string ward_code = "", int page = 1, int size = 10000)
         {
-            string token = Request.Headers.Authorization == null ? "" : Request.Headers.Authorization.ToString();
             Logger.Info(Request.RequestUri + "  ||  Method: " + Request.Method, Request.Headers.ToString(), null, Level.INFO);
 
             ResponseDTO Response = new ResponseDTO();
@@ -50,7 +45,6 @@ namespace SAMPLE_API.Controllers
         [Route("api/store/count")]
         public object Count(string category_code = "", string city_code = "", string district_code = "", string ward_code = "", int page = 1, int size = 12)
         {
-            string token = Request.Headers.Authorization == null ? "" : Request.Headers.Authorization.ToString();
             Logger.Info(Request.RequestUri + "  ||  Method: " + Request.Method, Request.Headers.ToString(), null, Level.INFO);
 
             ResponseDTO Response = new ResponseDTO();
@@ -65,7 +59,6 @@ namespace SAMPLE_API.Controllers
         [Route("api/store/search")]
         public object GetByID(int id)
         {
-            string token = Request.Headers.Authorization == null ? "" : Request.Headers.Authorization.ToString();
             Logger.Info(Request.RequestUri + "  ||  Method: " + Request.Method, Request.Headers.ToString(), null, Level.INFO);
 
             ResponseDTO Response = new ResponseDTO();
@@ -79,7 +72,6 @@ namespace SAMPLE_API.Controllers
         [Route("api/store/create")]
         public object CreateNewStore([FromBody]StoreRequestDTO storeData)
         {
-            string token = Request.Headers.Authorization == null ? "" : Request.Headers.Authorization.ToString();
             Logger.Info(Request.RequestUri + "  ||  Method: " + Request.Method, Request.Headers.ToString(), JsonConvert.SerializeObject(storeData), Level.INFO);
 
             ResponseDTO Response = new ResponseDTO();
@@ -96,7 +88,6 @@ namespace SAMPLE_API.Controllers
         [Route("api/store/import")]
         public object ImportStore([FromBody]List<StoreRequestDTO> StoreData)
         {
-            string token = Request.Headers.Authorization == null ? "" : Request.Headers.Authorization.ToString();
             Logger.Info(Request.RequestUri + "  ||  Method: " + Request.Method, Request.Headers.ToString(), JsonConvert.SerializeObject(StoreData), Level.INFO);
 
             ResponseDTO Response = new ResponseDTO();
@@ -129,7 +120,6 @@ namespace SAMPLE_API.Controllers
         [Route("api/store/update")]
         public object UpdateStore([FromBody]StoreRequestDTO storeData)
         {
-            string token = Request.Headers.Authorization == null ? "" : Request.Headers.Authorization.ToString();
             Logger.Info(Request.RequestUri + "  ||  Method: " + Request.Method, Request.Headers.ToString(), JsonConvert.SerializeObject(storeData), Level.INFO);
 
             ResponseDTO Response = new ResponseDTO();
@@ -145,11 +135,9 @@ namespace SAMPLE_API.Controllers
         [Route("api/store/delete")]
         public object Delete(int id)
         {
-            string token = Request.Headers.Authorization == null ? "" : Request.Headers.Authorization.ToString();
             Logger.Info(Request.RequestUri + "  ||  Method: " + Request.Method, Request.Headers.ToString(), JsonConvert.SerializeObject(id), Level.INFO);
 
             ResponseDTO Response = new ResponseDTO();
-            ErrorDTO ErrorResponse = new ErrorDTO();
 
             Response = StoreBUS.DeleteStore(id);
 

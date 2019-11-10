@@ -6,8 +6,6 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Web;
 
 namespace SAMPLE_API.Business.General
 {
@@ -15,7 +13,7 @@ namespace SAMPLE_API.Business.General
     public class CategoryBUS
     {
 
-        private SqlConnection con;
+        private SqlConnection con;                  
         private static Connection connection = new Connection();
 
         public static ResponseDTO GetAllCategory(string name, string title, string code)

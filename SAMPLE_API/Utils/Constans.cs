@@ -16,5 +16,9 @@ namespace SAMPLE_API.Utils
         public const string LOGIN_FAILED_MSG = "Email hoặc password không đúng";
         public const string INVALID_DATA_MSG = "Dữ liệu không hợp lệ";
         public const string USER_EXISTED_MSG = " Người dùng đã tồn tại";
+
+        public const string BASE_URL = @"C:\Source\Outsite\haima\trade_analytis_api\SAMPLE_API\Export";
+        public const string REPORT_1 = "Report/Index";
+
     }
 }

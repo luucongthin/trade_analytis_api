@@ -78,6 +78,17 @@ namespace SAMPLE_API.Utils
             Info(message, null, null, level);
         }
 
+        public static void Error(string message, string hearder, string data, string level)
+        {
+            _instance.monitoringLogger.Info(LINE_SEPARATOR);
+            _instance.monitoringLogger.Info(LINE_DATE_SEPARATOR);
+            _instance.monitoringLogger.Info(level);
+            _instance.monitoringLogger.Info(message);
+            _instance.monitoringLogger.Info(hearder);
+            _instance.monitoringLogger.Info(data);
+
+        }
+
         internal static void Error(string v, Exception ex, object eRROR)
         {
             throw new NotImplementedException();

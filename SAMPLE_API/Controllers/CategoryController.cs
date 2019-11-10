@@ -4,11 +4,6 @@ using SAMPLE_API.Common;
 using SAMPLE_API.Models.General;
 using SAMPLE_API.Models.RequestDTO;
 using SAMPLE_API.Utils;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 using static SAMPLE_API.Utils.Logger;
 

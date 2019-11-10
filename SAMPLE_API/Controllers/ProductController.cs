@@ -24,20 +24,5 @@ namespace SAMPLE_API.Controllers
 
             return Response;
         }
-
-        // POST: api/Product
-        public void Post([FromBody]string value)
-        {
-        }
-
-        // PUT: api/Product/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE: api/Product/5
-        public void Delete(int id)
-        {
-        }
     }
 }
