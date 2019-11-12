@@ -85,10 +85,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/03/2019 21:35:48</publishTime>
     </File>
     <File Include="bin/App_global.asax.compiled">
-      <publishTime>11/10/2019 18:21:08</publishTime>
+      <publishTime>11/10/2019 22:36:22</publishTime>
     </File>
     <File Include="bin/App_global.asax.dll">
-      <publishTime>11/10/2019 18:21:08</publishTime>
+      <publishTime>11/10/2019 22:36:22</publishTime>
     </File>
     <File Include="bin/IronPdf.dll">
       <publishTime>10/01/2019 04:47:44</publishTime>
@@ -181,10 +181,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/03/2019 21:35:49</publishTime>
     </File>
     <File Include="bin/SAMPLE_API.dll">
-      <publishTime>11/10/2019 18:20:34</publishTime>
+      <publishTime>11/10/2019 22:36:16</publishTime>
     </File>
     <File Include="bin/SAMPLE_API.pdb">
-      <publishTime>11/10/2019 18:20:34</publishTime>
+      <publishTime>11/10/2019 22:36:16</publishTime>
     </File>
     <File Include="bin/Swashbuckle.Core.dll">
       <publishTime>07/03/2019 21:35:49</publishTime>
@@ -280,7 +280,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/09/2019 22:17:56</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>11/10/2019 18:21:03</publishTime>
+      <publishTime>11/10/2019 22:36:17</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>11/09/2019 23:41:34</publishTime>

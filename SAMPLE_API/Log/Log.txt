@@ -1,0 +1,23 @@
+﻿http://localhost:59346/
+**************************************************************************************************
+***************************************11/10/2019 8:00:08 PM***************************************
+ERROR
+System.IO.IOException: IronPDF could not write to the file 'http://localhost:59346/Export/UrlToPdf.Pdf'.  It may be open in a PDF viewer. ---> System.ArgumentException: URI formats are not supported.
+   at System.IO.Path.LegacyNormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength, Boolean expandShortPaths)
+   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   at System.IO.File.WriteAllBytes(String path, Byte[] bytes)
+   at IronPdf.PdfDocument.SaveAs(String FileName)
+   --- End of inner exception stack trace ---
+   at IronPdf.PdfDocument.SaveAs(String FileName)
+   at SAMPLE_API.Controllers.CrawlController.ExportPDF() in C:\Source\Outsite\haima\trade_analytis_api\SAMPLE_API\Controllers\CrawlController.cs:line 50
+
+
+http://localhost:59346/
+http://localhost:59346/
+http://localhost:59346/
+http://localhost:59346/
+http://localhost:59346/

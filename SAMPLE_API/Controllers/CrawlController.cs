@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Net;
+using System.Net.Http;
 using System.Web;
 using System.Web.Http;
 using IronPdf;
@@ -20,35 +22,35 @@ namespace SAMPLE_API.Controllers
 
         [HttpGet]
         [Route("api/crawl/export")]
-        public object ExportPDF()
+        public HttpResponseMessage ExportPDF()
         {
             ResponseDTO Response = new ResponseDTO();
             ErrorDTO ErrorResponse = new ErrorDTO();
 
-            string fileName = "UrlToPdf.Pdf";
+            // New instance of HtmlToPdf
+            var htmlToPdf = new HtmlToPdf();
+            string fileName = "Report_Temperature_Demo.Pdf";
             // Get path
             string host = HttpContext.Current.Request.Url.Host;
             string port = HttpContext.Current.Request.Url.Port.ToString();
             string scheme = HttpContext.Current.Request.Url.Scheme;
+
+            HttpResponseMessage httpResponseMessage = Request.CreateResponse(HttpStatusCode.OK);
+
             string pathServer = scheme + "://" + host + ":" + port + "/";
+            string pathExportFolder = pathServer + "Export/";
+
+            var uri = new Uri(pathServer + Constans.REPORT_1);
 
             Logger.Info(pathServer, null, Level.INFO);
             try
             {
-                string pathReport = "";
-                // New instance of HtmlToPdf
-                var htmlToPdf = new HtmlToPdf();
-                string pathExportFolder = pathServer + "Export/";
-
-                var uri = new Uri(pathServer + "Home/Index");
-
                 // turn page into pdf
-                var pdf = htmlToPdf.RenderUrlAsPdf(uri);
-
-                // save resulting pdf into file
-                pdf.SaveAs(Path.Combine(Constans.BASE_URL, fileName));
-                pathReport = pathExportFolder + fileName;
-                Response.Data = pathReport;
+                PdfDocument pdf = htmlToPdf.RenderUrlAsPdf(uri);
+                httpResponseMessage.Content = new StreamContent(pdf.Stream);
+                httpResponseMessage.Content.Headers.ContentDisposition = new System.Net.Http.Headers.ContentDispositionHeaderValue("attachment");
+                httpResponseMessage.Content.Headers.ContentDisposition.FileName = fileName;
+                httpResponseMessage.Content.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/octet-stream");
             }
             catch (Exception e)
             {
@@ -57,7 +59,8 @@ namespace SAMPLE_API.Controllers
                 ErrorResponse.Message = e.ToString();
                 Response.Error = ErrorResponse;
             }
-            return Response;
+
+            return httpResponseMessage;
         }
     }
 }
